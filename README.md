@@ -3,7 +3,7 @@
 Implelmented brute force for now, LSH and ball tree coming soon :)
 
 To run :
-Either in folder /integer or in /floats 
+Either in folder /integers or in /floats 
 1. create data with run: 
 compile with g++ data_initiate.cpp data_init
 then run ./data_init
